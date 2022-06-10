@@ -5,6 +5,7 @@ A fork of Eric Clemmons's [per-env](https://github.com/ericclemmons/per-env) wit
 * uses yarn or npm
 * works on windows too
 
-Create .env file with:
-NPM_CONFIG_TOKEN=your_github_token
+Create .npmrc file with:
+@OWNER:registry=https://npm.pkg.github.com/gendall/per-env
+//npm.pkg.github.com/:_authToken=GITHUB_TOKEN
 
