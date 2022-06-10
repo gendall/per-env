@@ -6,5 +6,5 @@ A fork of Eric Clemmons's [per-env](https://github.com/ericclemmons/per-env) wit
 * works on windows too
 
 Create .env file with:
-GITHUB_TOKEN=your_github_token
+NPM_CONFIG_TOKEN=your_github_token
 
